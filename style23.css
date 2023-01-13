@@ -10,8 +10,12 @@ googledrive.com/host/id
 --------------------------------------------------------
 */
 
-kd-padding:
+.kd-border:
 {
+  border:1px solid red;
+  padding:20px;
+  background-color:red;
+  color:white;
 
 }
 
